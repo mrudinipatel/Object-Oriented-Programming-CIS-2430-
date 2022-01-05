@@ -1,4 +1,4 @@
-# Object-Oriented-Programming-CIS-2430-
+# Student Class Management System Program
 
 This program was created for the course, CIS-2430 (Object Oriented Programming), taught by Professor Fei Song in the Fall 2021 semester. 
 
