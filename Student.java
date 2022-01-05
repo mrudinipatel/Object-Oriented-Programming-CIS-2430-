@@ -56,3 +56,4 @@ public class Student{
         return "\nSubject: " + subject + "\nYear: " + year + "\nAverage Grade: " + grade + "\nLastName: " + lastName + "\n";
     }
 }
+
