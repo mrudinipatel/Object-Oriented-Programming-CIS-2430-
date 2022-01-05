@@ -5,6 +5,5 @@ This program was created for the course, CIS-2430 (Object Oriented Programming),
 This program simulates a Student Class Management System through a GUI (implemented using Swing and AWT packages).
 
 ### Compilation Commands
-javac  *.java*
+javac \*.java
 java Window
-
