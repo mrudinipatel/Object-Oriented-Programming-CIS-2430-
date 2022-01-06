@@ -7,6 +7,6 @@ This program simulates a Student Class Management System that allows an instruct
 
 ### Compilation Commands
 
-```javac \*.java
+```javac \*.java```
 
-java Window```
+```java Window```
